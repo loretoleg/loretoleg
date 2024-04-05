@@ -5,7 +5,7 @@
 📍 **Florida, United States**  
 📧 **Email:** [loretoleg@gmail.com](mailto:loretoleg@gmail.com)  
 🔗 **LinkedIn:** [Luis Loreto](https://www.linkedin.com/in/luis-loreto-302460164/)  
-👨‍💻 **Fiverr:** [Spartoi01](https://www.fiverr.com/spartoi01)
+👨‍💻 **Fiverr:** [Luis](https://www.fiverr.com/spartoi01)
 
 
 ### About Me 🌐
