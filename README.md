@@ -2,7 +2,6 @@
 
 ## 🚀 AI/ML Engineer and Data Scientist focusing on applied AI
 
-📍 **Florida, United States**  
 📧 **Email:** [loretoleg@gmail.com](mailto:loretoleg@gmail.com)  
 🔗 **LinkedIn:** [Luis Loreto](https://www.linkedin.com/in/luis-loreto-302460164/)  
 👨‍💻 **Fiverr:** [Luis](https://www.fiverr.com/spartoi01)
