@@ -8,7 +8,7 @@
 
 
 ### About Me 🌐
-I'm a data scientist professional and experienced engineer with a strong passion for developing data-driven solutions that help businesses succeed.
+Data professional with extensive experience in data engineering, machine learning, and AI-driven analytics solutions. Skilled in developing and optimizing scalable data pipelines, integrating diverse data sources, and leveraging cloud technologies like AWS and Google Cloud. Expertise in using machine learning to drive actionable insights, building automated reporting systems with tools like Tableau and Google Looker Studio, and delivering AI-powered marketing strategies. Proven ability to lead projects, design APIs, and automate processes that enhance operational efficiency and support data-driven decision-making. Strong communicator, adept at translating complex data into clear, actionable insights for clients across various sectors.
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, R
