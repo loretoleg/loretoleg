@@ -10,7 +10,7 @@ I am a data professional with experience in designing, developing, and implement
 
 My work involves developing and optimizing scalable data pipelines, integrating diverse data sources, and leveraging cloud technologies like AWS, Azure, and Google Cloud. I specialize in using machine learning to drive actionable insights, building automated reporting systems, and delivering AI-powered marketing strategies. I am proficient in leading projects, designing APIs, and automating processes that enhance operational efficiency and support data-driven decision-making. As a strong communicator, I am adept at translating complex data into clear, actionable insights for clients across various sectors.
 
-My core AI consulting services include:
+My core areas of expertise include:
 * **AI Strategy:** Developing comprehensive AI roadmaps aligned with business goals and market opportunities.
 * **Data Foundation & Engineering:** Establishing robust data pipelines, data governance, and scalable infrastructure to ensure high-quality, accessible data for AI initiatives.
 * **Custom Solutions:** Building tailored AI applications and machine learning models for specific business needs.
