@@ -4,8 +4,6 @@
 
 📧 **Email:** [loretoleg@gmail.com](mailto:loretoleg@gmail.com)  
 🔗 **LinkedIn:** [Luis Loreto](https://www.linkedin.com/in/luis-loreto-302460164/)  
-👨‍💻 **Fiverr:** [Luis](https://www.fiverr.com/spartoi01)
-
 
 ### About Me 🌐
 Data professional with extensive experience in data engineering, machine learning, and AI-driven analytics solutions. Skilled in developing and optimizing scalable data pipelines, integrating diverse data sources, and leveraging cloud technologies like AWS and Google Cloud. Expertise in using machine learning to drive actionable insights, building automated reporting systems with tools like Tableau and Google Looker Studio, and delivering AI-powered marketing strategies. Proven ability to lead projects, design APIs, and automate processes that enhance operational efficiency and support data-driven decision-making. Strong communicator, adept at translating complex data into clear, actionable insights for clients across various sectors.
