@@ -18,11 +18,11 @@ My core areas of expertise include:
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, R
-- **Frameworks & Libraries:** NumPy, Pandas, Scikit-Learn, Keras, TensorFlow, PyTorch, Langchain, LangGraph
+- **Frameworks & Libraries:** NumPy, Pandas, Scikit-Learn, Openpyxl, Keras, TensorFlow, PyTorch, Langchain, LangGraph
 - **Tools:** AWS Lambda, GCP, Docker, Git, MongoDB, Google API, WhatsApp API
 - **Cloud & Serverless:** AWS, GCP, Azure
 - **Specialties:** LLMs, Generative AI, Natural Language Processing (NLP), Computer Vision, Deep Learning, Reinforcement Learning, Supervised Learning, Unsupervised Learning, Neural Networks
-- **Data Visualization:** PowerBI, Tableau, Matplotlib, Google Data Studio
+- **Data Visualization:** PowerBI, Tableau, Streamlit, Matplotlib, Google Data Studio
 - **Other Expertise:** Data Engineering, AI-driven Analytics, API Design, Process Automation
 
 ### Education 🎓
