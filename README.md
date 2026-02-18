@@ -22,7 +22,7 @@ My core areas of expertise include:
 - **Tools:** AWS Lambda, GCP, Docker, Git, MongoDB, Google API, WhatsApp API
 - **Cloud & Serverless:** AWS, GCP, Azure
 - **Specialties:** LLMs, Generative AI, Natural Language Processing (NLP), Computer Vision, Deep Learning, Reinforcement Learning, Supervised Learning, Unsupervised Learning, Neural Networks
-- **Data Visualization:** PowerBI, Tableau, Streamlit, Matplotlib, Google Data Studio
+- **Data Visualization:** PowerBI, Tableau, Streamlit, Matplotlib, Google Data Studio, Grafana, Quicksight
 - **Other Expertise:** Data Engineering, AI-driven Analytics, API Design, Process Automation
 
 ### Education 🎓
